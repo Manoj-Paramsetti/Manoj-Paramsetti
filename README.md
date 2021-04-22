@@ -1,5 +1,5 @@
 <h1 align="center">Manoj Paramsetti</h1>
-<img src = "https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=100%>
+<img src = "https://www.arihantwebtech.com/images/design-notice/Hire-Full-Time-Developer.png" width=100%>
 <p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti"></img></p>
 
 ## About Me 
@@ -24,13 +24,13 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 </p>
 
 ## More about me
- * I’m currently working on britto app and opportunity tracker app
+ * I’m currently working on the Britto app and opportunity tracker app
  
  * I’m currently learning flutter and MERN stack
 
- * I’m looking to collaborate for open source project on Android Apps
+ * I’m looking to collaborate on an open-source project on Android Apps
  
- * I’m looking for a help with AI
+ * I’m looking for help with AI
  
  * Ask me about software developing
  
