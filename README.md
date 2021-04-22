@@ -8,9 +8,6 @@
 I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
 
 ## Contact Details 
-<h3 align="center">
- Don't forget to check my portfolio - <a href="https://manoj-paramsetti.github.io/" target="_blank"> manoj-paramsetti.github.io </a><br>
-</h3>
 <p  align="center">
  <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,6 +22,9 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </p>
+<h3 align="center">
+ Don't forget to check my portfolio - <a href="https://manoj-paramsetti.github.io/" target="_blank"> manoj-paramsetti.github.io </a><br>
+</h3>
 
 ## More about me
  * I’m currently working on britto app and opportunity tracker app
