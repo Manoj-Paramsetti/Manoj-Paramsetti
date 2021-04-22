@@ -1,6 +1,6 @@
 <h1 align="center">Manoj Paramsetti</h1>
-<img src = "https://www.arihantwebtech.com/images/design-notice/Hire-Full-Time-Developer.png" width=100%>
-<p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti"></img></p>
+<img src = "https://www.henryharvin.com/blog/wp-content/uploads/2020/06/So-you-want-to-be-a-web-developer.png" width=100%>
+<p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti&color=ff5656&style=flat-square"></img></p>
 
 ## About Me 
 
