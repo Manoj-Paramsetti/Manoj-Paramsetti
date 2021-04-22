@@ -15,13 +15,13 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
+ <a target="_blank" href="https://discordapp.com/users/777906489498271765">
  <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  </a>
  <a target="_blank" href="mailto:paramsetti.manoj@gmail.com">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
- <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
+ <a target="_blank" href="https://t.me/ManojParamsetti">
  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </p>
