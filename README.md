@@ -1,5 +1,5 @@
-<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> This's Paramsetti Manoj</h1>
-<img src="https://scontent.fmaa6-1.fna.fbcdn.net/v/t31.18172-8/27023565_419849501766114_2795991261599694460_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=19026a&_nc_ohc=2Wq5I4Wp9NgAX-w1nJs&_nc_ht=scontent.fmaa6-1.fna&oh=fcf0cd035780d2fb30bb49937161e0ca&oe=60A8E016" width=100%>
+<h1 align="center">Manoj Paramsetti</h1>
+<img src = "https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width=100%>
 <p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti"></img></p>
 
 ## About Me 
@@ -7,7 +7,7 @@
 <p  align="justify">
 I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
 
-## Contact Details 
+## Contact 
 <p  align="center">
  <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -22,9 +22,6 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </p>
-<h3 align="center">
- Don't forget to check my portfolio - <a href="https://manoj-paramsetti.github.io/" target="_blank"> manoj-paramsetti.github.io </a><br>
-</h3>
 
 ## More about me
  * I’m currently working on britto app and opportunity tracker app
@@ -38,6 +35,10 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  * Ask me about software developing
  
  * Pronouns: He/Him
+
+<h3 align="center">
+ Visit my portfolio to know more about me - <a href="https://manoj-paramsetti.github.io/" target="_blank"> manoj-paramsetti.github.io </a><br>
+</h3>
 
 ## Blog ✏️
 
