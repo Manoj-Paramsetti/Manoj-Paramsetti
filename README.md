@@ -4,8 +4,8 @@
 
 ## About Me 
 
-<p  align="justify">
-I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
+<h4  align="justify">
+I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</h4> 
 
 ## Contact 
 <p  align="center">
