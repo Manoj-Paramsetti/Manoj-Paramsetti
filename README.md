@@ -4,8 +4,8 @@
 
 ## About Me 
 
-<h4  align="justify">
-I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</h4> 
+<p  align="justify">
+I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
 
 ## Contact 
 <p  align="center">
@@ -24,20 +24,20 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 </p>
 
 ## More about me
- * I’m currently working on the Britto app and opportunity tracker app
+ - I’m currently **Technical Team Member** at **Developer Student Club - SIST**
  
- * I’m currently learning flutter and MERN stack
+ - I’m currently learning for **DevSecOps**
 
- * I’m looking to collaborate on an open-source project on Android Apps
+ - I’m looking to collaborate for an open-source project on **Mobile Apps and Websites**
  
- * I’m looking for help with AI
+ - I’m looking for help with **AI**
  
- * Ask me about software developing
+ - Ask me about <b>#software_developing</b>
  
- * Pronouns: He/Him
+ - Pronouns: **He/Him**
 
 <h3 align="center">
- Visit my portfolio to know more about me - <a href="https://manoj-paramsetti.github.io/" target="_blank"> manoj-paramsetti.github.io </a><br>
+ Visit my portfolio to know more about me - <a href="https://manojparamsetti.vercel.app/" target="_blank"> manojparamsetti.vercel.app </a><br>
 </h3>
 
 ## Blog ✏️
@@ -46,6 +46,20 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 <img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
 
+## A Shortlist of my projects
+
+- [Education Engage - MERN and Firebase](https://educationengage.vercel.app/)
+- [Portfolio - REACT](https://manojparamsetti.vercel.app/)
+- [Covid Tracker App - Flutter](https://github.com/Manoj-Paramsetti/corona-tracker-flutter)
+- [Discord Corona Bot - Python](https://github.com/Manoj-Paramsetti/corona-discord-bot)
+- [Hand Cricket Game - Kotlin](https://github.com/Manoj-Paramsetti/Hand-Cricket-Android)
+- [To-Do App - Vanilla JS](manoj-paramsetti.github.io/todo-app)
+- [Tic Tac Toe - Vanilla JS](https://manoj-paramsetti.github.io/tic-tac-toe)
+- [Weather App - REACT (OWM) ](https://manoj-paramsetti.github.io/react-apps/weather-app/)
+- [Word List Creator - Python](https://github.com/Manoj-Paramsetti/Brutter-2)
+- [GPA Calculator - Vanilla JS](https://manoj-paramsetti.github.io/GPA-Calculator-Web/)
+- [Greets Action - NodeJS](https://github.com/Manoj-Paramsetti/greets-action)
+- [Encryptor and Decryptor](https://github.com/Manoj-Paramsetti/Encryptor-and-Decryptor)
 <br><br>
 <details>
 <summary>
