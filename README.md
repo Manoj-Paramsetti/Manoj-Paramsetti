@@ -1,12 +1,14 @@
 <h1 align="center">Manoj Paramsetti</h1>
 <img src = "https://www.henryharvin.com/blog/wp-content/uploads/2020/06/So-you-want-to-be-a-web-developer.png" width=100%>
+<!--cover picture-->
 <p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti&color=ff5656&style=flat-square"></img></p>
 
+<!--About Me-->
 ## About Me 
-
 <p  align="justify">
 I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
 
+<!--Contact details-->
 ## Contact 
 <p  align="center">
  <a target="_blank" href="https://www.linkedin.com/in/manoj-paramsetti/">
@@ -23,6 +25,7 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 </a>
 </p>
 
+<!--About Me-->
 ## More about me
  - I’m currently **Technical Team Member** at **Developer Student Club - SIST**
  
@@ -40,12 +43,14 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  Visit my portfolio to know more about me - <a href="https://manojparamsetti.vercel.app/" target="_blank"> manojparamsetti.vercel.app </a><br>
 </h3>
 
-## Blog ✏️
 
+<!--Blog-->
+## Blog ✏️
 <a target="_blank" href="https://manoj-writes.hashnode.dev/">
 <img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
 
+<!--Projects-->
 ## A Shortlist of my projects
 
 - [Education Engage - MERN and Firebase](https://educationengage.vercel.app/)
@@ -61,10 +66,28 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 - [Greets Action - NodeJS](https://github.com/Manoj-Paramsetti/greets-action)
 - [Encryptor and Decryptor](https://github.com/Manoj-Paramsetti/Encryptor-and-Decryptor)
 <br><br>
+
+
+<!-- GitHub Stats-->
 <details>
+ 
 <summary>
- <b style="font-size=32px"> Github Stats 📈</b>
+<b style="font-size=32px"> Github Stats 📈</b>
+<br>
+<img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" align=center></img>
+<br>
+
 </summary>
+
 <p  align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=manoj-paramsetti&show_icons=true&include_all_commits=true&theme=radical" height="150px" align=center></img>
-</p></details>
+
+<img src = "https://github-readme-stats.vercel.app/api?username=manoj-paramsetti&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
+<br>
+
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Paramsetti" width="400px" align=center></img>
+<br>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-paramsetti&layout=compact&theme=radical" width="400px" align=center></img>
+</p>
+
+</details>
