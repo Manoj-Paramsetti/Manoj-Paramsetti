@@ -61,10 +61,12 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 - [To-Do App - Vanilla JS](manoj-paramsetti.github.io/todo-app)
 - [Tic Tac Toe - Vanilla JS](https://manoj-paramsetti.github.io/tic-tac-toe)
 - [Weather App - REACT (OWM) ](https://manoj-paramsetti.github.io/react-apps/weather-app/)
+- [BMI Calculator - C# (Windows Form)](https://github.com/Manoj-Paramsetti/BMI-Calculator-Csharp)
 - [Word List Creator - Python](https://github.com/Manoj-Paramsetti/Brutter-2)
 - [GPA Calculator - Vanilla JS](https://manoj-paramsetti.github.io/GPA-Calculator-Web/)
 - [Greets Action - NodeJS](https://github.com/Manoj-Paramsetti/greets-action)
 - [Encryptor and Decryptor](https://github.com/Manoj-Paramsetti/Encryptor-and-Decryptor)
+
 <br><br>
 
 
