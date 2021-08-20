@@ -1,12 +1,15 @@
 <h1 align="center">Manoj Paramsetti</h1>
-<img src = "https://www.henryharvin.com/blog/wp-content/uploads/2020/06/So-you-want-to-be-a-web-developer.png" width=100%>
 <!--cover picture-->
+<img src = "https://www.henryharvin.com/blog/wp-content/uploads/2020/06/So-you-want-to-be-a-web-developer.png" width=100%>
+
+<!--Profile views counter-->
 <p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti&color=ff5656&style=flat-square"></img></p>
 
 <!--About Me-->
 ## About Me 
 <p  align="justify">
-I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites</p> 
+I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyabama Institute of Science and Technology</b>. I'm a <b>Technial Team Member</b> at <a href="https://github.com/dsc-sist">@dsc-sist</a>, <b>Executive Member</b> at CodeChef SIST Chapter, <b>Campus fellowship</b> at <a href="https://github.com/eduAlgo">@eduAlgo</a> and participated in DSoC'20. I'm familiar with Python, Android development (Flutter, Kotlin, and Java) and UI designing for Apps and Websites
+</p> 
 
 <!--Contact details-->
 ## Contact 
@@ -35,7 +38,7 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  
  - I’m looking for help with **AI**
  
- - Ask me about <b>#software_developing</b>
+ - Ask me about **App development and Web development**
  
  - Pronouns: **He/Him**
 
@@ -52,7 +55,7 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 
 <!--Projects-->
 ## A Shortlist of my projects
-
+<img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"></img>
 - [Education Engage - MERN and Firebase](https://educationengage.vercel.app/)
 - [Portfolio - REACT](https://manojparamsetti.vercel.app/)
 - [Covid Tracker App - Flutter](https://github.com/Manoj-Paramsetti/corona-tracker-flutter)
@@ -75,8 +78,6 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
  
 <summary>
 <b style="font-size=32px"> Github Stats 📈</b>
-<br>
-<img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" align=center></img>
 <br>
 
 </summary>
