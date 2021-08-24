@@ -57,6 +57,7 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 ## A Shortlist of my projects
 <img src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"></img>
 - [Education Engage - MERN and Firebase](https://educationengage.vercel.app/)
+- [M Text Editor - C# (.Net Framework)](https://github.com/Manoj-Paramsetti/M-Text-Editor-CSharp)
 - [Portfolio - REACT](https://manojparamsetti.vercel.app/)
 - [Covid Tracker App - Flutter](https://github.com/Manoj-Paramsetti/corona-tracker-flutter)
 - [Discord Corona Bot - Python](https://github.com/Manoj-Paramsetti/corona-discord-bot)
