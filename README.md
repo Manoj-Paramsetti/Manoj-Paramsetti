@@ -30,7 +30,7 @@ I'm an UG <b>Computer Science and Engineering Student</b> studying at <b>Sathyab
 
 <!--About Me-->
 ## More about me
- - I’m currently **Technical Team Member** at **Developer Student Club - SIST**
+ - I’m currently **Technical Head** at **Microsoft Club Sathyabama**
  
  - I’m currently learning for **DevSecOps**
 
