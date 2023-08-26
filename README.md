@@ -10,11 +10,8 @@
 
 <!--About Me-->
 ### About me
-🔸 I’m currently **Technical Head** at **Microsoft Club Sathyabama**<br>
-🔸 I’m currently preparing for **DevOps Engineer**<br>
-🔸 I’m looking to collaborate for an open-source project on **Mobile Apps and Websites**<br>
-🔸 I’m looking for help with **AI**<br>
-🔸 Ask me about **App development and Web development**<br>
+🔸 Interest on **DevOps Engineer**<br>
+🔸 Ask me about **Software Engineering**<br>
 🔸 Pronouns: **He/Him**<br>
 
 <!--Contact details-->
@@ -40,26 +37,6 @@
 <a target="_blank" href="https://manoj-writes.hashnode.dev/">
 <img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
-
-<!--Projects-->
-### A Shortlist of my projects
-🔸 [Education Engage - MERN and Firebase](https://educationengage.vercel.app/)<br>
-🔸 [M Text Editor - C# (.Net Framework)](https://github.com/Manoj-Paramsetti/M-Text-Editor-CSharp)<br>
-🔸 [Portfolio - REACT](https://manojparamsetti.vercel.app/)<br>
-🔸 [Covid Tracker App - Flutter](https://github.com/Manoj-Paramsetti/corona-tracker-flutter)<br>
-🔸 [Discord Corona Bot - Python](https://github.com/Manoj-Paramsetti/corona-discord-bot)<br>
-🔸 [Hand Cricket Game - Kotlin](https://github.com/Manoj-Paramsetti/Hand-Cricket-Android)<br>
-🔸 [To-Do App - Vanilla JS](manoj-paramsetti.github.io/todo-app)<br>
-🔸 [Tic Tac Toe - Vanilla JS](https://manoj-paramsetti.github.io/tic-tac-toe)<br>
-🔸 [Weather App - REACT (OWM) ](https://manoj-paramsetti.github.io/react-apps/weather-app/)<br>
-🔸 [BMI Calculator - C# (Windows Form)](https://github.com/Manoj-Paramsetti/BMI-Calculator-Csharp)<br>
-🔸 [Word List Creator - Python](https://github.com/Manoj-Paramsetti/Brutter-2)<br>
-🔸 [GPA Calculator - Vanilla JS](https://manoj-paramsetti.github.io/GPA-Calculator-Web/)<br>
-🔸 [Greets Action - NodeJS](https://github.com/Manoj-Paramsetti/greets-action)<br>
-🔸 [Encryptor and Decryptor](https://github.com/Manoj-Paramsetti/Encryptor-and-Decryptor)<br>
-
-<br>
-
 
 <!-- GitHub Stats-->
 <details>
