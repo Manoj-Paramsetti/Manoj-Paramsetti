@@ -1,18 +1,11 @@
 <h1 align="center"><a href="https://manojparamsetti.vercel.app/">Manoj Paramsetti</a></h1>
 
-**Hello!** This is Manoj Paramsetti, Studying **Bachelor of Computer Science and Engineering** in Sathyabama University (2020-2024)
-<h4 align="center">
- Feel free to visit <a href="https://manojparamsetti.vercel.app/" target="_blank"> My Portfolio </a><br>
-</h4>
-
-<!--Profile views counter-->
-<p align=center><img src="https://komarev.com/ghpvc/?username=manoj-paramsetti&color=ff5656&style=flat-square"></img></p>
-
 <!--About Me-->
 ### About me
+🔸 Bachelor of Computer Science and Engineering Student<br>
 🔸 Interest on **DevOps Engineer**<br>
 🔸 Ask me about **Software Engineering**<br>
-🔸 Pronouns: **He/Him**<br>
+🔸 Pronouns: **He/Him**<be>
 
 <!--Contact details-->
 ### Contact 
@@ -31,31 +24,29 @@
 </a>
 </p>
 
-
 <!--Blog-->
 ### Blog ✏️
 <a target="_blank" href="https://manoj-writes.hashnode.dev/">
 <img src = "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
 
+
+<br>
+<br>
 <!-- GitHub Stats-->
-<details>
- 
-<summary>
-<b style="font-size=32px"> Github Stats 📈</b>
-<br>
-
-</summary>
-
-<p  align="center">
-
-<img src = "https://github-readme-stats.vercel.app/api?username=manoj-paramsetti&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
-<br>
-
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Paramsetti" width="400px" align=center></img>
-<br>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-paramsetti&layout=compact&theme=radical" width="400px" align=center></img>
-</p>
-
+<details> 
+ <summary>
+  <b style="font-size=32px"> Github Stats 📈</b>
+  <br>
+ </summary>
+ <p  align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=manoj-paramsetti&show_icons=true&include_all_commits=true&theme=radical" width="400px"   align=center></img>
+  <br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Paramsetti" width="400px" align=center></img>
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-paramsetti&layout=compact&theme=radical" width="400px" align=center></img>
+ </p>
 </details>
+
+<!--Profile views counter-->
+<img src="https://komarev.com/ghpvc/?username=manoj-paramsetti&color=ff5656&style=for-the-badge"></img>
