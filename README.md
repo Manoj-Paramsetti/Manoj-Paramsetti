@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://manojparamsetti.vercel.app/">Manoj Paramsetti</a></h1>
+<h1><a href="https://manojparamsetti.vercel.app/">Manoj Paramsetti</a></h1>
 
 <!--About Me-->
 ### About me
