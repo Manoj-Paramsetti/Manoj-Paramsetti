@@ -3,8 +3,8 @@
 <!--About Me-->
 ### About me
 🔸 Bachelor of Computer Science and Engineering Student<br>
-🔸 Interest on **DevOps Engineer**<br>
-🔸 Ask me about **Software Engineering**<br>
+🔸 **DevOps Engineer**<br>
+🔸 Ask me about **Software Engineering & Networks**<br>
 🔸 Pronouns: **He/Him**<be>
 
 <!--Contact details-->
